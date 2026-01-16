@@ -21,7 +21,7 @@ This project was built by applying concepts learned from the **Codebasics Power 
 
 
 - 🔗 **LinkedIn Post:**  
-  https://tinyurl.com/5acayps3
+  https://shorturl.at/Xe4zm
 
 - 📘 **Course Reference:**  
   https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project
